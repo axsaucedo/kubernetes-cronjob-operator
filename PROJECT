@@ -1,0 +1,7 @@
+domain: axsaucedo.io
+repo: axsaucedo.io
+resources:
+- group: batch
+  kind: CronJob
+  version: v1
+version: "2"
